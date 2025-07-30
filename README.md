@@ -4,7 +4,7 @@
 
 Hey there! 👋
 This is my official submission for the **July 2025 PLP Hackathon: Portfolio Challenge**.
-I’ve crafted a clean, responsive, and fun personal portfolio using only **HTML & CSS** – and a whole lotta heart ❤️.
+I’ve crafted a clean, responsive, and fun personal portfolio using only **HTML & CSS** – and a whole lotta heart ❤️😄.
 
 
 ## 👨‍💻 About Me
